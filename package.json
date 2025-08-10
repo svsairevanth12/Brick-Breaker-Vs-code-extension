@@ -76,8 +76,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/your-username/brick-breaker-vscode.git"
+    "url": "https://github.com/svsairevanth12/Brick-Breaker-Vs-code-extension.git"
   },
+  "bugs": {
+    "url": "https://github.com/svsairevanth12/Brick-Breaker-Vs-code-extension/issues"
+  },
+  "homepage": "https://github.com/svsairevanth12/Brick-Breaker-Vs-code-extension#readme",
   "license": "MIT",
   "icon": "icon.png"
 }
